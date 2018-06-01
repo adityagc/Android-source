@@ -1,2 +1,2 @@
 # Android-source
-This repository containts my android applications
+This repository contains my android applications
